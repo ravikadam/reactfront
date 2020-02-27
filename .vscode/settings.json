@@ -1,0 +1,10 @@
+{
+  "prettier.eslintIntegration": true,
+  "eslint.autoFixOnSave": false,
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "files.associations": {
+    "*.js": "javascriptreact"
+  }
+}
