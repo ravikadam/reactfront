@@ -6,13 +6,13 @@ import { connect } from 'react-redux'
 import { withRouter } from 'react-router-dom'
 import {
   FacebookLoginButton,
-  LinkedInLoginButton,
-  GoogleLoginButton,
-  /*   InstagramLoginButton,
+  /*LinkedInLoginButton,*/
+  GoogleLoginButton /*,
+     InstagramLoginButton,
     TwitterLoginButton,
     MicrosoftLoginButton,
-    AmazonLoginButton, */
-  GithubLoginButton
+    AmazonLoginButton, 
+  GithubLoginButton*/
 } from 'react-social-login-buttons'
 
 import Grid from '@material-ui/core/Grid'
