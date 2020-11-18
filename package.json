@@ -78,7 +78,7 @@
     "lint-staged": "^8.1.5",
     "prettier": "^1.16.4",
     "redux-devtools-extension": "^2.13.8",
-    "semantic-release": "^15.13.3"
+    "semantic-release": "^17.2.3"
   },
   "config": {
     "commitizen": {
